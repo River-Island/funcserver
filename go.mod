@@ -1,4 +1,4 @@
-module github.com/j0hnsmith/funcserver
+module github.com/River-Island/funcserver
 
 require (
 	github.com/aws/aws-lambda-go v1.8.1
